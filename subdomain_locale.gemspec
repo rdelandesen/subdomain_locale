@@ -13,5 +13,5 @@ Gem::Specification.new do |spec|
   spec.test_files    = spec.files.grep(%r{^test/})
 
   spec.add_dependency "i18n", ">= 0.7.0", "< 0.8"
-  spec.add_dependency "railties", ">= 4.0", "< 5.0"
+  spec.add_dependency "railties", ">= 4.0", "< 5.1"
 end
